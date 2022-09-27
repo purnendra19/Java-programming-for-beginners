@@ -29,8 +29,7 @@ public static void main (String []args){
            break;
 
            default : System.out.print("invalid botton");
-
-           
+                        
         }sc.close();
 
       
