@@ -1,5 +1,4 @@
 // Three number addition program in java. 
-
 import java.util.*;
 
 public class inputadd{
