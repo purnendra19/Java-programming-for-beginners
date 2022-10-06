@@ -1,3 +1,4 @@
+// java pattern printing programs
 import java.util.*;
 public class Hollowrectangle{
     public static void main(String args []){
