@@ -1,3 +1,4 @@
+// java pattern printing programs
 // This code print a rectangle box.
 // y AXIS = length of rectangle box.
 // x AXIS = width of rectangle box.
