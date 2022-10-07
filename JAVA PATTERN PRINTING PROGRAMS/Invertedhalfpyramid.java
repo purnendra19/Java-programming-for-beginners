@@ -1,4 +1,5 @@
 // java pattern printing programs
+// hacktober accpected
 // *****
 // ****
 // ***
