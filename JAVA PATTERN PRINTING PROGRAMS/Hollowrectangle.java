@@ -1,4 +1,5 @@
 // java pattern printing programs
+// hacktober accpected
 import java.util.*;
 public class Hollowrectangle{
     public static void main(String args []){
