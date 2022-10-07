@@ -2,6 +2,7 @@
 // In this code N = numbers of lines of code
 // This code printing following code
 
+
 // output when N value is 8
 
 // 1 
