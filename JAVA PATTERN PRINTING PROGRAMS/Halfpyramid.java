@@ -1,4 +1,7 @@
 //java pattern printing programs
+
+
+
 import java.util.*;
 public class Halfpyramid {
     public static void main(String[]args){
