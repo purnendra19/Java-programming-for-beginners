@@ -1,5 +1,6 @@
 // java pattern printing programs
 // This code print following code
+// hacktoberfest 2022 accpected 
 // hacktober accpected
 // hacktober 2022 accpected
 // *
