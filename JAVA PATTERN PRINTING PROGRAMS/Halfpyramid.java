@@ -1,6 +1,6 @@
 //java pattern printing programs
 
-
+// hacktober 2022 accpected
 
 import java.util.*;
 public class Halfpyramid {
