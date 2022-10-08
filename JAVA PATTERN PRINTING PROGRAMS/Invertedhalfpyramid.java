@@ -1,5 +1,6 @@
 // java pattern printing programs
 // hacktober accpected
+// hacktober 2022 accpected
 // *****
 // ****
 // ***
