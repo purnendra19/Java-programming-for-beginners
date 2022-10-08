@@ -1,5 +1,6 @@
 // java pattern printing programs
 // This code print a rectangle box.
+// hacktoberfest 2022 accpected 
 // y AXIS = length of rectangle box.
 // x AXIS = width of rectangle box.
 
