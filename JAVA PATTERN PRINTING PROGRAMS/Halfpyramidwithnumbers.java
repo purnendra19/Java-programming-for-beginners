@@ -1,6 +1,7 @@
 // java pattern printing programs
 // In this code N = numbers of lines of code
 // This code printing following code
+// hacktober 2022 accpected
 
 
 // output when N value is 8
