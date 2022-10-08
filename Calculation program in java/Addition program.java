@@ -1,4 +1,5 @@
 // Three number addition program in java. 
+// hacktoberfest 2022 accpected 
 import java.util.*;
 
 public class inputadd{
