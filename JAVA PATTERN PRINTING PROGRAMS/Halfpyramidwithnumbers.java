@@ -1,4 +1,5 @@
 // java pattern printing programs
+// hacktoberfest 2022 accpected 
 // In this code N = numbers of lines of code
 // This code printing following code
 // hacktober 2022 accpected
