@@ -1,6 +1,6 @@
 //java pattern printing programs
 // hacktoberfest 2022 accpected 
-
+//happy hacktoberfest 
 // hacktober 2022 accpected
 
 import java.util.*;
