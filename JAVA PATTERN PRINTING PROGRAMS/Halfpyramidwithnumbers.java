@@ -15,7 +15,7 @@
 // 1 2 3 4 5 6
 // 1 2 3 4 5 6 7
 // 1 2 3 4 5 6 7 8
-
+// it will print the pattern mention above
 import java.util.*;
 public class Halfpyramidwithnumbers {
     public static void main(String args []){
