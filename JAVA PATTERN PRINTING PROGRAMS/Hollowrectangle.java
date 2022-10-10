@@ -2,6 +2,8 @@
 // hacktoberfest 2022 accpected 
 // hacktober accpected
 // hacktober 2022 accpected
+
+//hacktoberfest 2022 will rock
 import java.util.*;
 public class Hollowrectangle{
     public static void main(String args []){
