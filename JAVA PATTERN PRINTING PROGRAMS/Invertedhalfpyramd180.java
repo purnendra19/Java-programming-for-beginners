@@ -10,6 +10,7 @@
 // ****
 // *****
 // ******
+// hacktober 2022 accpected..
 
 import java.util.*;
 public class Invertedhalfpyramd180 {
