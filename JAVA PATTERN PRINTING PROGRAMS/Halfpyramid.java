@@ -4,6 +4,10 @@
 //happy hacktoberfest 
 // hacktober 2022 accpected
 // happy hacktober fest
+// hacktober 2022 accpected
+
+
+
 
 import java.util.*;
 public class Halfpyramid {
