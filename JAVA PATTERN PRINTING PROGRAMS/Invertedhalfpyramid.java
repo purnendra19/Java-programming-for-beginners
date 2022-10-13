@@ -2,12 +2,12 @@
 // hacktober accpected
 // hacktoberfest 2022 accpected 
 // hacktober 2022 accpected
-// *****
-// ****
-// ***
-// **
-// *
-
+// ************
+//  **********
+//   ********
+//    ******
+//     ****
+//      **
 import java.util.*;
 public class Invertedhalfpyramid {
     public static void main(String agrs []){
