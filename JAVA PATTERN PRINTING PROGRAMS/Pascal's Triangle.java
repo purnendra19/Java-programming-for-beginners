@@ -1,3 +1,4 @@
+// happy hacktober fest
 import java.util.Scanner;  
 public class RightPascalTrianglePattern  
 {  
