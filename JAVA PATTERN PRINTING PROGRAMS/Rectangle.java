@@ -4,6 +4,7 @@
 // hacktoberfest 2022 accpected 
 // y AXIS = length of rectangle box.
 // x AXIS = width of rectangle box.
+// happy hacktober fest
 
 // code look iike this.
 
