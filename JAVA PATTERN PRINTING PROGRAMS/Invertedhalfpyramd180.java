@@ -4,6 +4,8 @@
 // hacktober accpected
 // hacktober 2022 accpected
 // happy hacktober fest
+// hacktober accpected
+
 // *
 // **
 // ***
