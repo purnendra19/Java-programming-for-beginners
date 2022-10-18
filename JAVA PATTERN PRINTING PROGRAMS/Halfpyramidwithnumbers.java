@@ -7,6 +7,7 @@
 // happy hacktober fest
 // hacktober 2022 accpected
 // hacktober 2022 accpected
+// hacktober 2022 accpected
 
 
 // output when N value is 8
