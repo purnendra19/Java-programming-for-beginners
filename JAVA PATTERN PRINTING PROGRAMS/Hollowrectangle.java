@@ -3,6 +3,7 @@
 // hacktober accpected
 // hacktober 2022 accpected
 // happy hacktober fest
+// hacktober 2022 accpected
 
 //hacktoberfest 2022 will rock
 import java.util.*;
