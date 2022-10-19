@@ -1,4 +1,5 @@
 // happy hacktober fest
+// hacktober 2022 accpected
 import java.util.Scanner;  
 public class RightPascalTrianglePattern  
 {  
