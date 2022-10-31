@@ -1,3 +1,6 @@
+
+
+// hacktober 2022 accpected
 import java.util.*;
 class J
 {
